@@ -1,2 +1,2 @@
-# My-DSA-Journy
+# My-DSA-Journey
 Daily DSA Question
